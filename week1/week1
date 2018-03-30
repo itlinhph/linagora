@@ -1,0 +1,4 @@
+Git rebase
+git cherry-pick
+git format-patch
+git apply
